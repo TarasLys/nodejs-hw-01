@@ -1,1 +1,44 @@
-[]
+[
+     {
+          "id": "e6a154c0-353f-4ac8-8019-5b4262c777ce",
+          "name": "Janet Ernser",
+          "phone": "(609) 204-0226 x0886",
+          "email": "Dell.Cummings98@gmail.com",
+          "job": "Internal Communications Coordinator"
+     },
+     {
+          "id": "3fa9e5f1-ce8a-46e2-9a26-da0c76d7519d",
+          "name": "Clarence Barrows",
+          "phone": "(730) 689-4280 x663",
+          "email": "Aileen98@hotmail.com",
+          "job": "Corporate Creative Liaison"
+     },
+     {
+          "id": "93aa67e6-7a4d-4fd7-8fdc-fb126ea37f6c",
+          "name": "Kristy Schimmel",
+          "phone": "580-911-1667 x9495",
+          "email": "Antonietta18@gmail.com",
+          "job": "Senior Metrics Strategist"
+     },
+     {
+          "id": "e0f1b6df-1142-4d9f-aef9-0fbf6ce17124",
+          "name": "Clay Beahan",
+          "phone": "1-356-393-3942 x69330",
+          "email": "Tina49@hotmail.com",
+          "job": "Dynamic Factors Agent"
+     },
+     {
+          "id": "a257b7e7-30df-4fa7-aab1-76210fc01a8d",
+          "name": "Lena Schneider",
+          "phone": "400-604-9231",
+          "email": "Gerard12@yahoo.com",
+          "job": "Human Accounts Supervisor"
+     },
+     {
+          "id": "dd532540-6544-4856-bbcb-2ad724978ab7",
+          "name": "Dr. Stacy Erdman",
+          "phone": "1-389-403-2488 x3094",
+          "email": "Noelia.Heidenreich78@gmail.com",
+          "job": "Lead Integration Strategist"
+     }
+]
